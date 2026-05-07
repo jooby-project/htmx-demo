@@ -22,6 +22,8 @@ This application demonstrates the power of the `jooby-htmx` module, delivering a
 mvn jooby:run
 ```
 
+<img width="739" height="390" alt="Screenshot 2026-05-07 at 18 09 11" src="https://github.com/user-attachments/assets/3c97f1cf-f3d4-484d-857e-1dc8cbfdf887" />
+
 
 ## ✨ Features
 
