@@ -2,7 +2,7 @@
 
 A blazing-fast, reactive Single Page Application (SPA) built with **Jooby**, **HTMX**, and **Handlebars**.
 
-This application demonstrates the power of the `jooby-htmx` module, delivering a complex, interactive user interface—including drag-and-drop sorting, dynamic counters, and toast notifications—without writing complex client-side JavaScript.
+This application demonstrates the power of the (jooby-htmx)[https://jooby.io/modules/htmx/] module, delivering a complex, interactive user interface—including drag-and-drop sorting, dynamic counters, and toast notifications—without writing complex client-side JavaScript.
 
 ---
 
